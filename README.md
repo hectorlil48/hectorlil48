@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hectorlil48
 - 👀 I’m interested in becoming a Front End Developer.
-- 🌱 I’m currently learning JavaScript and Php.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on anything I could learn on.
 - 📫 How to reach me 
 
